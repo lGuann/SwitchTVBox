@@ -1,0 +1,1442 @@
+Package: autofolderclose
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/autofolderclose_1.0-1_iphoneos-arm64.deb
+Size: 2696
+MD5sum: 639aeae0d4bf58b94977977181160a2d
+SHA1: 36434d1a995df2b6499e36dbdfd10a297437c8ac
+SHA256: fb8e412277f4504e8e778145c2a9baf76a98e257751f6242c9e6b97e41ead3f9
+Section: Tweaks
+Description: 自动关闭文件夹
+Author: z
+Name: 自动关闭文件夹
+
+Package: autofolderclose
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/roothide/autofolderclose_1.0-1_iphoneos-arm64e.deb
+Size: 2648
+MD5sum: 1ccb38a49b4a863793e4bf05b7878c09
+SHA1: 7337dd0225b2050a7e7e098108148f895f7ecdb9
+SHA256: 778d3932749f828225bce559b4bcf165c88ed4766d8abfdced273b5a234a1681
+Section: Tweaks
+Description: 自动关闭文件夹
+Author: z
+Name: 自动关闭文件夹
+
+Package: bottomelevation
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/底部高度_1.1_iphoneos-arm64.deb
+Size: 2322
+MD5sum: 05661c217be77f70af2aff026d4e9115
+SHA1: 7459d1be84cd71dfced6dfc263823c4d71ae5e39
+SHA256: 870539c436fa3a1a885c0a227b39c30cb2e75b2a7f02e418ad2d13c54768923f
+Section: Tweaks
+Description: 底部高度
+Author: z
+Name: 底部高度
+
+Package: bottomheightz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/底部抬高_1.0_iphoneos-arm64.deb
+Size: 8832
+MD5sum: 0314bd0ffd6ffd37e10e9bb2a0ccdc2f
+SHA1: 3af74b5c24294198f8e5e024fe8464f02b9997d4
+SHA256: 759b6efc60908c4b5264b096c7e04e984053084f25af43a4640f97c24df901bd
+Section: Tweaks
+Description: 底部抬高
+Author: z
+Name: 设置底部高度
+
+Package: bottomheightz
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/抬高_1.2_iphoneos-arm64.deb
+Size: 8874
+MD5sum: 596f993003729bb0564ea4363b66d768
+SHA1: 53b864426377e7d1d0731eeeeb914b32d6271050
+SHA256: a6f7bec620cafc71637b4a94a7fca0cab0183fa3b642644d519bef3cebfcb72c
+Section: Tweaks
+Description: 底部抬高
+Author: z
+Name: 设置底部高度
+
+Package: callshidevoicemailios
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootless/隐藏语音留言_1.0_iphoneos-arm64.deb
+Size: 2402
+MD5sum: 9a21ac81d2c32168f03b016ba97d30a4
+SHA1: 689a2caab8e720f4d9192c939c8cc782cd10d439
+SHA256: 0590432d65748fe2d95c417afef265cb9de8d838323a40025009b955427e87fd
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
+Package: camerafullscreen
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/camerafullscreen_1.0_iphoneos-arm64.deb
+Size: 3356
+MD5sum: d8e570b1e39852e49f590b9a863b21a4
+SHA1: aebd62c3756ba21dec421e9f87c18f94a063bd71
+SHA256: 19348ef1cae8af5d622ab622c5b43cfe8b4e855543c14e80367f933dca10b73e
+Section: Tweaks
+Description: 补丁说明:本补丁仅去除原生相机顶部和底部两个黑色模块，使其达到全屏视觉效果，默认拍照比例为4:3，只有16:9模式拍出来的照片才算全屏效果，理论兼容全系列设备！
+Author: z
+Name: 相机全屏拍照
+
+Package: com.cydiabc.aiyueshuxianghack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 696
+Depends: mobilesubstrate
+Filename: ./debs/rootful/aiyueshuxianghack_1.0-1_iphoneos-arm.deb
+Size: 146024
+MD5sum: cfd53c608df8643577f60b3054b0efc6
+SHA1: d107f5f60fa3afc0afeabe48d7bbc381c2402663
+SHA256: 6a4283788a292112ce339630df71ed951440149e8a3621f59e69955fe09ff9ab
+Section: 自用插件
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，兼容APP版本：只支持到6.8.2
+A12: 1
+Author: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 爱阅书香Pro
+Sponsor: Ai-小苹果™
+
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 884
+Depends: mobilesubstrate
+Filename: ./debs/rootless/威锋703永久VIP+去广告无根.deb
+Size: 333768
+MD5sum: 5744207b42523917b4c5e9ff20cd290a
+SHA1: 15a9489d91cbea57afec5cea76c79f63b712edfa
+SHA256: 9d342d20e9a527f9915c9cd6894d34d9b0d7ad6323b1d1bb947a5a881b2e2c09
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
+
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 868
+Depends: mobilesubstrate
+Filename: ./debs/rootful/feng.deb
+Size: 327048
+MD5sum: 19637328a55d86f916106a24fd331712
+SHA1: 1e656ed1a545f7b62096734d5a736eaa25193b44
+SHA256: 83fd957cc6bc32d2861ff281ee9ebe4d67cc9c19e9302327be90d37e833991e1
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
+
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/rootless/巨魔锁_1.0.3_iphoneos-arm64.deb
+Size: 37142
+MD5sum: 33d2995d4126266a86b35a783375ccc2
+SHA1: b9061cfb1e28b5d8536c41a48900a1722004efb9
+SHA256: b4ddf2f8b6d6dce4beae45c939d883c3d0761d43566345c1d4f7c6d6d799687d
+Section: Tweaks
+Priority: optional
+Description: 图标目录在/var/jb/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
+Name: 巨魔锁
+
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4637852
+MD5sum: 7c02190692158746803f6ccb3a10a708
+SHA1: 27458e206f55e2c25e7394d5848e0ea709bf288c
+SHA256: ba8a51c489687cd2b0b0528b17cc3a9ca8927d513f20b207bde69c720a8f5be8
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1140
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.wechatnotiavatar_1.2-4_iphoneos-arm64.deb
+Size: 242712
+MD5sum: 5aac05c7013a01d1424289fc9d826734
+SHA1: 06352d24becbe4e94491b5c1bda1af28b9856700
+SHA256: a51c0d63c4768b0b04168381e27a25df1886bad1ef757636e3c16fed7eec3149
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: com.opa334.trollstorehelper
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 676
+Filename: ./debs/rootful/com.opa334.trollstorehelper_1.5.1_iphoneos-arm.deb
+Size: 216352
+MD5sum: b94cabe706ef0071ba68eec4b86bdb92
+SHA1: 4296b82f4d517548d36b67b6814ce4da4f17bf40
+SHA256: af52153c7cd50f85b4d85b5bd19a565a82f796da11bc4380fe0621eb3eb23afc
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
+Package: com.opa334.trollstorehelper
+Version: 2.0.13
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/rootless/com.opa334.trollstorehelper_2.0.13_iphoneos-arm64.deb
+Size: 1919730
+MD5sum: c34bd249e214d9f21a1868c67d6e1f01
+SHA1: 02cbfc8f0baebe5011b0dcd26d112e5e5461556a
+SHA256: 2657abdd561b055697df7e000ecf3438a24b5df567d5378bd1e54a4e0c9c0641
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
+Package: com.opa334.trollstorehelper
+Version: 2.0.13
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/rootful/com.opa334.trollstorehelper_2.0.13_iphoneos-arm.deb
+Size: 1917946
+MD5sum: 1032b9988b8e8428b6b54521371354a1
+SHA1: 9c0dc4eb63ae631249a49cf4692c7d51bdf29da5
+SHA256: bbda33f9960c0b32c42729a176b636fe438c3105dcbbe5a1799cba1a7a1fcb1f
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
+Package: com.udevs.vpnindicator
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/vpnindicator_1.1.8_iphoneos-arm64.deb
+Size: 8106
+MD5sum: fc68646e3b7cda9ee9412e1477696375
+SHA1: d8818b64312f2a171c32a6fc9e76d0813e0191f1
+SHA256: ecf9d832ab882d402d4d16a64f90dab08fa28ec18958a1918a4b563a96e1521c
+Section: Tweaks
+Description: 打开 VPN时 Wi-Fi图标变绿色
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator-绿色
+
+Package: com.udevs.vpnindicator
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/vpnindicator_1.1.8_iphoneos-arm64e.deb
+Size: 8018
+MD5sum: 373aaefbdee52e7e9740c85b4c54a34a
+SHA1: bbbe299c7d8acc475ff66b22f18ff59d4e2a8765
+SHA256: 2366e3989418bf60394c8222b8e357f9fdd859c517f5d1360f0f381c9676c99f
+Section: Tweaks
+Description: 打开 VPN时 Wi-Fi图标变绿色
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator-绿色
+
+Package: com.zlw555.ios15xhome
+Version: 1.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/ios15xhome_1.3-1+debug_iphoneos-arm64.deb
+Size: 4350
+MD5sum: 2ae2b56581d75effbdd557700760e947
+SHA1: 5f8063c44bcfaadea2f2f32dfe85c766fedc7b2c
+SHA256: d063e82436eec07c86a2159eebdab220890f30ad9c335c89e674cb5629f6abce
+Section: Tweaks
+Description: iOS15无限根x手势，隐藏控制中心状态栏
+Author: zlw555
+Name: ios15xhome
+
+Package: cydiabc.aiyue
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootful/aiyue_1.7_iphoneos-arm.deb
+Size: 48672
+MD5sum: 8790d4f1c01e8d662db53e324e2ae24b
+SHA1: d84a7f92e54bf725790acfa9d3ea26cbc44e14ae
+SHA256: 3e42b77753422a0c80c56724167806e744616193e0463ef1505ca542e1f1272c
+Section: 自用插件
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
+A12: 1
+Author: 土拨鼠
+Icon: Tweaks.png
+Icon2: 1.png
+Name: 爱阅书香高级版
+Sponsor: Ai-小苹果
+
+Package: datasource
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/屏蔽设置重要提醒_iphoneos-arm64.deb
+Size: 3936
+MD5sum: 2b94ab774d3e1f1060d977dc0a2e9cbb
+SHA1: fee7b3b86cd29411d031976c0abbdeb1ae864e64
+SHA256: 120d61a5b2f3a61a4341384e3c38d877339d0a5bd40054659e1224b54d267432
+Section: Tweaks
+Description: 屏蔽更换配件后设置和关于本机里面的重要提醒
+Author: z
+Name: 屏蔽设置重要提醒
+
+Package: docktm
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Dock透明_1.0_iphoneos-arm64.deb
+Size: 3178
+MD5sum: 74ac0b2b83032afe1aa8df00f6e063d0
+SHA1: 9e730fe5ff4b9b9502978ed1924039cf054d1c1e
+SHA256: ef98d3f9913c38c62c75655ecdf3ca253b9887bc0d23690140afeb54fe994e78
+Section: Tweaks
+Description: Dock透明+无翻页点
+Author: zlw555
+Name: Dock透明
+
+Package: foldertm
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/文件夹透明_1.0_iphoneos-arm64.deb
+Size: 3384
+MD5sum: fbcbcd290d87d0724230fefa5bd4bf5d
+SHA1: edc9cef3479d6e4dcfc23891f771691dc370b235
+SHA256: 0595a59884c10f7c05138238f1da3e0d832ea1a24c4febcd0de56c017b4a922b
+Section: Tweaks
+Description: 桌面文件夹背景透明
+ 打开文件夹背景透明(默认全透)
+ 点击任意空白处关闭文件夹
+Author: z
+Name: 文件夹透明
+
+Package: kwyx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/rootful/kwyx_1.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: c2ec9c315d801359d7ea8685b1cc9eef
+SHA1: 95c5cba585d1376f939f999bf181cf526e3cf07e
+SHA256: ccf8749b685ea218ace7557ff3b7fb472ad77df0499193953ba2c1b44299b89a
+Section: Tweaks
+Description: 酷我音乐去启动、去后台启动广告
+Author: z
+Name: 酷我音乐
+
+Package: kwyy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/kwyy_1.0_iphoneos-arm64.deb
+Size: 2922
+MD5sum: 2d67f017d5f79ba65ef32d52e5d797da
+SHA1: 7e534e8776ed3deb0fd493cd596f4829dffe27a3
+SHA256: 5ceb71ec1d03856d9d214b1dfb09f3b24de454e573685bed90cb3069741bbf93
+Section: Tweaks
+Description: 酷我音乐去启动、去后台启动广告
+Author: z
+Name: 酷我音乐-rootless
+
+Package: latchkey
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 10136
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/rootless/自定义锁头_2.2_iphoneos-arm64.deb
+Size: 5654088
+MD5sum: 3bbbe2b5264a8e97514a1903bc22132b
+SHA1: d6e9838d8d1b76edc491cff1ae52bd3416c0ebe6
+SHA256: cc32930e9092257c55a0362400f7aadf07d59f1f1e3c0ca6767bcb11bdfe9865
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: 修复15.7.1可用
+Name: LatchKey-自定义锁头
+
+Package: lockbutton
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/lockbutton_0.1-2_iphoneos-arm64.deb
+Size: 38100
+MD5sum: 52977157ae431fe50132742ed31bc7a5
+SHA1: 425b0dafe3bd657d63e02bf11fb2636cf24b64c5
+SHA256: f48cb5167df0984eb4f6e890dd0ae1c59438892c7eb1038265f86de8e063040c
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏(Rootless)
+Author: xybp888
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 一键锁屏-Rootless
+Sponsor: xybp888
+
+Package: lockbutton
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: cybp888
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/rootful/lockbutton_1.0-2_iphoneos-arm.deb
+Size: 18260
+MD5sum: 67de5096a3f76c6bdf1e17bf71c4d44b
+SHA1: e74b0391a791fa8c68740a4a17b9cdcf25ab4270
+SHA256: aa49812b386b5c878b9a5a022db38d9aef67b36726853b30cabb57634feb7ead
+Section: 自用插件
+Priority: optional
+Description: 桌面一键锁屏，有图标，无后台
+Author: cybp888
+Name: 一键锁屏
+
+Package: locked5
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/锁屏来电拒接_1.0_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 419e0e899a6a7f37d8495954fe370d8a
+SHA1: 8ee54c0ef7cc5150be88ae99afd156d4c107f2fa
+SHA256: 6b75ceadab9b695a69359f8417de0ca3c693aa99bbed56da6917e4b5368bed2d
+Section: Tweaks
+Description: 在锁屏来电话时会有一个红色挂断的按钮
+Author: z
+Name: 锁屏来电拒接
+
+Package: lrds
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/lrds_1.0_iphoneos-arm64.deb
+Size: 3134
+MD5sum: 30cf74b72d312ef3ef77a9308e626fdc
+SHA1: 2325fae92852c5b2abaa92eb8c9ad6f5106e0e6a
+SHA256: 506bf28082988d57c61480d436e07f9c7ec7faf95d8b0ea50873e8a93962a345
+Section: Tweaks
+Description: 去除启动广告，去后台启动广告
+Author: z
+Name: 懒人听书-rootless
+
+Package: lrds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/rootful/lrds_1.0_iphoneos-arm.deb
+Size: 3292
+MD5sum: ab509b3ab724e7ae30d2b7a9bb344cba
+SHA1: 16fe556d7427663dae5fc4925e8270a594a25aab
+SHA256: cef7c84f3adfd8a2913ac9385db05fbd050c53dd25bf307dd7b3370579034e27
+Section: Tweaks
+Description: 去除启动广告，去后台启动广告
+Author: z
+Name: 懒人听书
+
+Package: mterminal
+Version: 1.4-6
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/rootful/mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Section: Utilities
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Description: A MobileTerminal fork
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Name: MTerminal
+
+Package: net.tetherme.tetherme8
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 24313
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/rootful/net.tetherme.tetherme8_2.1.1_iphoneos-arm.deb
+Size: 7583776
+MD5sum: 0e74e279442895659e69eb664014dbef
+SHA1: 168d8e351b0475103d9a4c9b7794fe31a8458324
+SHA256: ab268db05b72a5562a306f4b19cc27c42fa599cc2c19505959dfd5df6ccbf61d
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
+Tag: purpose::extension
+Author: Sam Bingner <support@tetherme.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Dev: tetherme
+Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
+Name: TetherMe for iOS 8+
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.3dnetworkfixer
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 448
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.3dnetworkfixer_1.1-8_iphoneos-arm.deb
+Size: 99266
+MD5sum: 07dd3a44ab7d7daaea66bbaf2e6e1eca
+SHA1: c89bad3838a959abc752352d0314390e9c2c0e17
+SHA256: b914e0727b59cfa486d03ceb3dba015658aae22a83fd72df8a10d1ca548504d9
+Section: Netskao-Tweaks
+Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
+Author: Netskao
+Name: 3DNetworkFixer
+
+Package: netskao.alwayslowpower
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.alwayslowpower_1.1-2_iphoneos-arm.deb
+Size: 7542
+MD5sum: a162dc418692b83cee60224c7f2ac4e5
+SHA1: 3a42929f7ca36571f3a821571e54650d0942953b
+SHA256: f64b954888ccea898df56be322f5dcd99fc3da0e30789745228e0f0b653c406f
+Section: Netskao-Tweaks
+Description: 让设备总是处于低电量模式
+Author: Netskao
+Name: AlwaysLowPower
+
+Package: netskao.alypgetdownloadurl
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.alypgetdownloadurl_1.1-1_iphoneos-arm.deb
+Size: 79512
+MD5sum: cb6268aaed435661c4641a169762e3c6
+SHA1: dd0730e04f31cc1a1e03b9efb1155dcc6c0acddf
+SHA256: 7e2fea71e426af141d93df29b19eb52ab9b7c46dd5504881e75bb16986607259
+Section: 自用插件
+Description: 阿里云盘获取暂时直链，打开文件选项面板后长按任意按钮复制，详情看预览图，不支持文件夹获取！！！是暂时直链！！！
+Author: Netskao
+Name: 阿里云盘 GetDownloadURL
+
+Package: netskao.disableautomationnotice
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: mobilesubstrate
+Conflicts: netskao.disableshortcutsnotification
+Filename: ./debs/rootful/netskao.disableautomationnotice_1.1-3_iphoneos-arm.deb
+Size: 5920
+MD5sum: 3a06b59c9e4ea5a4882e1a2d8601501a
+SHA1: c64e3b8810c227f879b139627791663fa61447b2
+SHA256: b008cddaafe1d27911828f4ffd096c5c12ad6a9ec0f212d1a66d61148f02ce5e
+Section: 自用插件
+Description: 禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他
+Author: Netskao
+Name: DisableAutomationNotice
+
+Package: netskao.disablepastetips
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 133
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.disablepastetips_1.1-4_iphoneos-arm.deb
+Size: 3628
+MD5sum: 57a5d1a511af09d5beea9a2ef57b475d
+SHA1: d3f32692e471cd458abf40610abf5e2897bd0e74
+SHA256: 5c0846ae9f6d6b3ef9c2ca4186984f1aa6f4d5ad200e9a264d09c47d5c062c22
+Section: 自用插件
+Description: 禁用iOS14的粘贴提示
+Author: Netskao
+Dev: netskao
+Name: DisablePasteTips
+
+Package: netskao.injectipa
+Version: 2.3-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 4932
+Depends: firmware (>= 11.0)
+Filename: ./debs/rootful/netskao.injectipa_2.3-2_iphoneos-arm.deb
+Size: 1745850
+MD5sum: ecf4f79fe2e3d0164278f864ab24d7b6
+SHA1: c44e95133ad1271e43c3576b50c30693c4bb8ec7
+SHA256: 79297ce372a62fe8d14230b22299bdf2926a39c40c42213f239416f12e91201c
+Section: Netskao-Tweaks
+Homepage: https://github.com/Netskao/MacOS-Utils
+Description: injectipa是一款命令行一键注入dylib到ipa工具。自用把命令改成ipa了用法：ipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行ipa查看即可，注入完成后的IPA需要签名使用
+Author: Netskao
+Name: injectipa
+
+Package: netskao.networkmanage
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: netskao
+Installed-Size: 412
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootful/netskao.networkmanage_1.1-3_iphoneos-arm.deb
+Size: 101712
+MD5sum: 70f60a95683f17bf0ed842ffcc805fac
+SHA1: e8a120119873a0cae236d061be4921310651c6f5
+SHA256: b754de3537680920934b3039fd08cdc2cb678dd9a10731f10b3f2a1f3d1f56e2
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networkmanageDp
+Description: 管理蜂窝和WIFI联网权限，支持iOS10-iOS14
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: Netskao
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networkmanageDp
+Dev: netskao
+Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.png
+Name: NetWorkManage
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatautologin
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/rootful/netskao.wechatautologin_1.0-1_iphoneos-arm.deb
+Size: 68368
+MD5sum: d7813a2981ea60b2350794775434cd6a
+SHA1: 1484963360b605d857f61decfc13e0e8d603811b
+SHA256: 97a30d840bee9a4f69408a281ca72ccb4ea332b6c3674d501d4bbcf88535078d
+Section: Netskao-Tweaks
+Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆后跳转微信后直接登录
+Author: Netskao
+Name: WeChatAutoLogin
+
+Package: ngthienhoan.nobetaalert
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootless/去除Beta弹窗_1.0_iphoneos-arm64.deb
+Size: 2364
+MD5sum: 57a15bf7214b3324b7c2cd9c002a3e3e
+SHA1: 030e60ca85dfd03fa9b6fefd62ccda61365fa42d
+SHA256: b18b8afd87a41ebc6123c6ae5b5aeb76ddb65c8a3033d018f8b7dfa7b6bdfb6f
+Section: Tweaks
+Description: 去除测试版Beta弹窗
+Author: z
+Name: 去除Beta弹窗
+
+Package: nohomebar
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootless/去除底部横条_1.1_iphoneos-arm64.deb
+Size: 2408
+MD5sum: a58885b684674d26826583951f62e59d
+SHA1: 1bb8ec6e711c772c8a453a2188aff3315fac09c2
+SHA256: 330eca6ddd6dc3c21589dff3e3c740833488e66cd7fe771f4e6fef1806352632
+Section: Tweaks
+Description: 隐藏横条
+Author: z
+Name: 去除底部横条
+
+Package: nolowpowermode30secautolock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Brend0n
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/nolowpowermode30secautolock_1.0_iphoneos-arm64.deb
+Size: 3978
+MD5sum: 6d48f6f737b6705bdf5e08cd9a67b1a6
+SHA1: 8ab98dc48315fcd9f4ef20b97340e6195fc3c9d4
+SHA256: d3f6a1ff7841905dff6daee7bf63c77b0e08b6836efb981c5f79563cc55ecd2a
+Section: Tweaks
+Description: 在低功耗模式下本地调整自动锁定间隔.
+Author: Brend0n
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
+Name: NoLowPowerMode30SecAutoLock
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
+
+Package: nolowpowermode30secautolock
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/roothide/nolowpowermode30secautolock_1.0_iphoneos-arm64e.deb
+Size: 4284
+MD5sum: 39a25ed46c6dc6d9dae025a2f28772a7
+SHA1: cd806904e6610ebce976052eb8374224c23762d1
+SHA256: 71f21fdf53f2674d26ee9bf57bfdf8f718e9e4674cd90bf7d867eea2ee4495c8
+Section: Tweaks
+Description: 在低功耗模式下本地调整自动锁定间隔.
+Author: Brend0n
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
+Name: NoLowPowerMode30SecAutoLock
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
+
+Package: nolowpowermode30secautolock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootful/nolowpowermode30secautolock_1.0_iphoneos-arm.deb
+Size: 4270
+MD5sum: ac4483f71580d1eaa2f0e7e3e4669656
+SHA1: 607f7d4a4c5e682e343bc7a364e48d06358bcb96
+SHA256: 5478030d37f1f131406718f2b77e17d693cdb6020cc744e8bd4dc9fc97fd9e9d
+Section: Tweaks
+Description: 在低功耗模式下本地调整自动锁定间隔.
+Author: Brend0n
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
+Name: NoLowPowerMode30SecAutoLock
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
+
+Package: org.coolstar.libhooker
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: ./debs/rootful/libhooker_1.5.2.deb
+Size: 48472
+MD5sum: 7a4f6fa9024ae0fc50cdf5baf8dd88bc
+SHA1: cde7cbcd3b5a00513c4288624d5725cada3a0432
+SHA256: c7c54fa93dd3eb25cb50925a4859a382c5b0b2218477e68390ecb8d39973f3df
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: ./debs/rootful/libhooker_1.5.5.deb
+Size: 50548
+MD5sum: b5bc1fd51b7bd217146f8ec8ced8b0f2
+SHA1: e093d958814ebe2520b1bc53038cbcf032c5dafe
+SHA256: d462bd3437af6ec55971693c29ac945d7aca7bc80837462ef5569c5fdcdce6d6
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: ./debs/rootful/libhooker_1.6.3.deb
+Size: 54076
+MD5sum: 53aa7a2714d63475be1cf164c5e858e1
+SHA1: cc190c2df8789443a38587ebf527b4d5be97e38d
+SHA256: c024372de9c384f07f93fc163155fbb009dd67513cfaa49d1583db8d3ecabec9
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.safemode
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Replaces: org.coolstar.libhooker (<<1.2.5)
+Filename: ./debs/rootful/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
+Size: 558304
+MD5sum: 43526b865445d84251d78f99a6325ab5
+SHA1: fd03023d7559d36435f4d64bad92504cc9d46297
+SHA256: 44368da007c8b46bd7d69c48f0724b36d423758e807215e67f12f85a8ea4966e
+Section: System
+Description: Safe Mode app for libhooker
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: Safe Mode (libhooker)
+
+Package: otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/rootful/otadisabler_0.1-7_iphoneos-arm.deb
+Size: 14828
+MD5sum: 44e9cb5995b97ce0b04ca8b778eb4949
+SHA1: a093dadac2f28c979114e2c9daa2c70bea9eca2f
+SHA256: d02afbcbcfb63896a07c4dbd3fe4ec3306d66cb62c4431c531e1b680fb8e7d62
+Section: System
+Description: 屏蔽OTA升级，去除越狱环境也有效
+Author: ichitaso
+Name: OTA屏蔽升级
+
+Package: prozs
+Version: 3.5.7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3088
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Filename: ./debs/rootful/prozs_3.5.7_iphoneos-arm.deb
+Size: 804460
+MD5sum: 0ce49d8a851a6f2279ffa7f459b13d79
+SHA1: 7d9cc0a3ded6f05ad62b6d5ddf1fd677f32ae6a6
+SHA256: 36585e654211a1fb5c6a29776caa9dd40df156285337eae2bd07e730fd23cc2a
+Section: 自用插件
+Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
+Icon: Tweaks.png
+Name: Pro助手
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
+
+Package: qidianqad
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/qidianqad_1.5_iphoneos-arm.deb
+Size: 3680
+MD5sum: 6e70d037217f3b7156fb5487cae26a5d
+SHA1: 2f144492e20dd121689fef02576e093830db30fe
+SHA256: 76902daf6efe39db87b2c037dcef39857e820e74853cf8573076009aeb141c57
+Section: Tweaks
+Description: 2014年2月5日，支持最新5.9.333
+Author: zlw555
+Name: 起点去启动广告
+
+Package: ru.rj.ftt
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/rootful/ru.rj.ftt_1.7_iphoneos-arm.deb
+Size: 21584
+MD5sum: 27ceb82a53ae0bb57b69c0aeab4ee252
+SHA1: 5ace166f7346b9868c047fd5c5f912cb91a26089
+SHA256: f9de02a07e7d6e4176118bb2a1f339e60da2ce16a0e5430a6fd3f04c89e21e1a
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: 终端输入命令ftt
+Author: ipad_kid_Randy420
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
+
+Package: sbapplication
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/禁用通知中心下拉手势_1.0_iphoneos-arm64.deb
+Size: 3186
+MD5sum: 78862df12466c711bc784b1847ad7739
+SHA1: 1612cf38830a652dcbf5b5ecfebe67f390e96893
+SHA256: c9cf00353123611b442a0fb4e2bc42a27c1df3d784eba769e6fc4714e58d1fcf
+Section: Tweaks
+Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该补丁默认生效全局应用，并不能单一选择应用
+Author: poqw312
+Name: 禁用通知中心下拉手势
+
+Package: tingliteqad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: x
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/tingliteqad_1.0_iphoneos-arm64.deb
+Size: 2990
+MD5sum: 129fd55988f6ad79863135c29bb84f61
+SHA1: 6726c3fd6344a829f1a8ff6752bf9212aa152307
+SHA256: 0884d87dfadf8bda43817b31dbcee1723e98ee0cb46086bac6653fb9eff7dfcc
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动-rootless
+
+Package: tingliteqad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: x
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/tingliteqad_1.1_iphoneos-arm.deb
+Size: 3472
+MD5sum: 154cfcd441e5cf107b63d2de3e3029a8
+SHA1: 4c36971198d0628d769e0407942ac5f6f1f781a7
+SHA256: 2cfad4e550f93485f781c0782da0080e31c2569db70f25f7900df09f3efecd68
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动
+
+Package: wechatupdate
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/wechatupdate_1.8_iphoneos-arm64.deb
+Size: 8038
+MD5sum: b8041be733f1679dab52b0c739930be3
+SHA1: 2d42dae2afb55e744dd59de0fcd4f41cb3017815
+SHA256: 91cf0846c1af3cf769436bcb248ba57b0282d6f7a07e539d40455e1f8f25c2fe
+Section: Tweaks
+Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
+Author: z
+Name: 修改微信版本号
+
+Package: weifengqad
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/weifengqad_1.2_iphoneos-arm64.deb
+Size: 4000
+MD5sum: d730975cbb3dc9007a9ab4505c3bc0c0
+SHA1: e132f90db26dd68b3ff8518a1594d9fc9dfdce6c
+SHA256: 6086a5660ad8b284c45c8c4cc92630a44d9911612cb3cb6c58be14801f5513d5
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Name: 威锋7.3NoAd
+
+Package: weifengqad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/weifengqad_1.2_iphoneos-arm.deb
+Size: 3938
+MD5sum: 39ae2d96b03313af62d6ce355f2a0a61
+SHA1: 42d8a93d457424beced7ed3a0e5c0176b843274c
+SHA256: 369d95319c5d5921442e1dede32df2f53af80b3ea49ce30874be82125dc0c795
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Name: 威锋7.3NoAd
+
+Package: wiki.qaq.iridium
+Version: 1.2.15
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 15312
+Depends: firmware (>= 13.5)
+Filename: ./debs/rootful/wiki.qaq.iridium_1.2.15_iphoneos-arm.deb
+Size: 5423226
+MD5sum: 98c491f37d30383e6ad35cef0d971eeb
+SHA1: 423397be70c5ae10042f70adc2ad7feaf94a541d
+SHA256: b17b29656f6a720b70b33a29abad54ead389ec1fb9faf84c0b7233b3239cf731
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Description: An iOS application decrypter built ready for use.
+Tag: purpose::uikit
+Author: Lakr Aream <launchctl@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Dev: lakraream
+Name: iridium
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/wxcallkit_1.1_iphoneos-arm64.deb
+Size: 3160
+MD5sum: 98918d7961fe12a8ed7ecede705f25b5
+SHA1: 561ac22e4c023f64c2969893d8f4c7a2fb65c1e4
+SHA256: fe5532e51338ded18270365b1c26180db41efe2cba68dee1cd31a92433e846dd
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit-rootless
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/wxcallkit_1.1_iphoneos-arm64e.deb
+Size: 3116
+MD5sum: 27456d8887fb10cc1e99fbb4658122c7
+SHA1: b378ee5b4cb635b1da0cd207565873c28daee98c
+SHA256: b282ca908ab80e48a72d24771ce332a41f2d0e2139de2929f5945c91603108fe
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit-roothide
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/wxcallkit_1.1_iphoneos-arm.deb
+Size: 3094
+MD5sum: c6a6ef098a330d34e4c9a977fbb65d95
+SHA1: 653f831f90c3f0908a8c5739d84d1b187ad4db16
+SHA256: d4e79cae8b97f9b6f7a575fa40c82596fabd575e578c9ee695200f82ea8223ef
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/rootless/wxipad_1.1.4_iphoneos-arm64.deb
+Size: 3188
+MD5sum: b89589b3e915e7db72f69800785131cb
+SHA1: 60e825a9526f976d5bb524a8ea3a9e05ff000513
+SHA256: d2fdf632673cc287cf38c5f82930d356bd1b8479492c6ecdfadcc9812c888069
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad-rootless
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/roothide/wxipad_1.1.4_iphoneos-arm64e.deb
+Size: 3152
+MD5sum: a02c3d8d7ce30204e69f3b77254b5495
+SHA1: c50aa42db5868fa5b53549dab158541a64878674
+SHA256: 8fd7bbfc17a5fc53847bacd87bf23e457e5aa0d5895b87ca027ef14a48c1bbc8
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad-roothide
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/rootful/wxipad_1.1.4_iphoneos-arm.deb
+Size: 3134
+MD5sum: c7be0816837d2b04f72627fa3dddd842
+SHA1: c8e38a79fdbc2d16a889a8797e42ae292db7d4c7
+SHA256: e0cf02a996f722ff7aadd9ccbee0c3c250c7eeb9f3751b420e47aff6f1039e51
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad
+
+Package: wxyytg
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信聊天界面_1.1_iphoneos-arm64.deb
+Size: 3054
+MD5sum: 625bafb473e600687b2bbcb02ea8ba53
+SHA1: 9ce2b6fd305deeae51e2b057686344e3bf5bf5d7
+SHA256: 417376f97d32fbe019f258af84383f687845feaf769ce53da6cf51cd576baba0
+Section: Tweaks
+Description: 微信聊天界面抬高
+Author: z
+Name: 微信聊天界面抬高
+
+Package: xhome
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/xhome_1.5_iphoneos-arm64e.deb
+Size: 3134
+MD5sum: e16b84a2fc6e92a5804148a0617fad51
+SHA1: 27ac946dc3a65785527957fd137d3c7cea9a128d
+SHA256: 1650e93f88d0d3dbe2d5d31d624b61824c8e9b6d25b86b482e42dea8e5cd8c87
+Section: 自用插件
+Description: ios15手势
+Author: zlw555
+Name: ios15xhome-roothide
+
+Package: xhome14
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/xhome14_1.7.2_iphoneos-arm.deb
+Size: 3662
+MD5sum: 0028f0c87d67d988c74b4d3e8b12b091
+SHA1: 2893b43ec88efd494ae6752d6071bec4e2863b31
+SHA256: 0638aff435b639950d93f3ec9235d3c907c27461b93cfd0a78a0ec2a0be48d1b
+Section: 自用插件
+Description: 自由ios14手势
+Author: zlw555
+Name: ios14xhome
+
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xianyu_1.0_iphoneos-arm64.deb
+Size: 3250
+MD5sum: ad07a53a8a5d800c52e688105150f84b
+SHA1: a7056874ae85acd865adccd5f9e1593b000c2a33
+SHA256: f34d028be0a2d3840d89b1dcf6ded23b4f9d944c952830d8c551a655cb0c5cbd
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼-rootless
+
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/roothide/xianyu_1.0_iphoneos-arm64e.deb
+Size: 3182
+MD5sum: f51b4debd7ef21a33534616bc9b61ec6
+SHA1: 1f254c0e7d12ca580e8bdfb493b01b615ebb1bf9
+SHA256: 8d72d7b13260932e1eda71fd8cf33f3f698d53b801ffb2b6dc76ced90a66652a
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼-roothide
+
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootful/xianyu_1.0_iphoneos-arm.deb
+Size: 3162
+MD5sum: 3d4ebf51b80cf52965a3b45c31ec6f7a
+SHA1: 8e11f32f699b95d4c670f664ef373c1f61e710db
+SHA256: b2a2676651383e1d3bfd3c9d64879c9b131ebeadbd0b8d64f2d996963c140eae
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼
+
+Package: ximalaya
+Version: 2.7.5
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/ximalaya_2.7.5_iphoneos-arm64.deb
+Size: 3832
+MD5sum: 02e504b700617daa00d340ea04fd8f2f
+SHA1: f1f0c4fd6ad66059af07281d2ff934161c2f2275
+SHA256: 3cf53a2a3e8de98232d569607236ed467883d4789bad4daf72572ccf675fd400
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 2.7.6
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/ximalaya_2.7.6_iphoneos-arm.deb
+Size: 4248
+MD5sum: a8ea18e23b2ac0df6b3aaadf6027d736
+SHA1: 2f6ad42325c44020e59852cb756542aa5e24033f
+SHA256: 6fccc81360c7c4e20141d1553e0182df316b25d21855c9b859fb2493ec20b331
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化
+
+Package: xwgetversion
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/微信版本_1.1_iphoneos-arm64.deb
+Size: 9062
+MD5sum: 54e97be7a6120bf2067298f2a4d4998e
+SHA1: 1707fd367a7de8a00643edba0d175252514edc64
+SHA256: 442a34b03a16aef680532c1d4fb5ee7decf201dc09fbb4dd71d0baa5579e4c34
+Section: Tweaks
+Description: 插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: 微信修改版本号
+
+Package: z.badgediconview
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/徽章_1.0_iphoneos-arm64.deb
+Size: 3110
+MD5sum: 27768898ab83ddf6502b0dbed0e0d4da
+SHA1: 810085f7780e199f90ffe1dc815d00daab196114
+SHA256: b4e874a711600d32cdf2943b2a1909ad5d22da60133930fd088ffb3771dc8e23
+Section: Tweaks
+Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试系统15.7.1
+Author: z
+Name: 隐藏消息头像徽章
+
+Package: z.badgediconview
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/徽章_1.0_iphoneos-arm64e.deb
+Size: 3078
+MD5sum: d3f1d5ff4d7c6565e200afaeff85b8eb
+SHA1: a19a2a9f58c137d268e71244b05fd8e2d14fb2c5
+SHA256: 9e231a04f924ab182052eea0ec2d51b39519a89d5b959df203f87a811103b8c9
+Section: Tweaks
+Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试系统15.7.1
+Author: z
+Name: 隐藏消息徽章-roothide
+
+Package: z.nowplayingviewcontroller
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/z.nowplayingviewcontroller_1.0_iphoneos-arm64.deb
+Size: 3042
+MD5sum: 25f46bd00bee129cf3013a8dc7ab0821
+SHA1: 87c4910a588eed1aa1eb7bacad1ea385669ea03d
+SHA256: 2aab53f851dbc68e7e5215f9c4ad944260fd968a166cb0a37f88136de6133804
+Section: Tweaks
+Description: 隐藏锁屏音乐控件
+Author: z
+Name: 隐藏锁屏音乐控件
+
+Package: zgyh
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/中国银行去广告_1.1_iphoneos-arm64.deb
+Size: 3064
+MD5sum: 7b3352b9bf953fcb21c97d95dfb75884
+SHA1: 0b9236946eedafc2fe28ae3c25b5d8445892b288
+SHA256: f1f8d6fba66e8c713e01f2cf00f461aa3349c37e74e498fbc3d2176460ebba5d
+Section: Tweaks
+Description: 去启动广告 为你推荐
+Author: z
+Name: 中国银行去广告
+
+Package: zlw.bismihxw
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/zlw.bismihxw_1.1_iphoneos-arm64.deb
+Size: 10804
+MD5sum: fa472b21056743f7bf43695524988a21
+SHA1: 6ab17db16a02bdf91724fce2c35bb795052c3d5d
+SHA256: c694584d751f696a9e724b4a673502ba56e60f2c42d1cb9427438627ca0a45ba
+Section: Tweaks
+Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: bismih微信
+
+Package: zlw.wechat
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/WeChatHookLite_1.3.3_iphoneos-arm64.deb
+Size: 10372
+MD5sum: b19a035a82cff678e27058bcb276c817
+SHA1: b5b675fcde24816bc686d6c636445eaa31d2d34d
+SHA256: 7f129b7576bcd9444a606acb7675885b198a549b3117a59e29626531c344944e
+Section: Tweaks
+Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: WeChatHookLite-rootless
+
+Package: zlw.wechat
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/WeChatHookLite_1.8_iphoneos-arm64.deb
+Size: 14804
+MD5sum: d00c4c869d6fed41b507397c8017fcb1
+SHA1: d1ea1a9b3b2b2f236eab3e977fbd9afefee17b1e
+SHA256: 9e5da6063d8a29e0dee8ea2f103c944d5329fa2e7f53522ecb5812b93d446000
+Section: Tweaks
+Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
+Author: z
+Name: WeChatHookLite-rootless
+
+Package: zlw555.new3guangxibank
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/zlw555.new3guangxibank_1.1_iphoneos-arm.deb
+Size: 2872
+MD5sum: ba39f41b91f9e5bda11e55184f09648a
+SHA1: 23a62e787d51bcb33d59cfb54f84bd69401b46e4
+SHA256: cf21a52c5607c3f3f1fdd1671d0d17414b55809bec7bb1b89c6a3cd0714f2c9f
+Section: Tweaks
+Description: 农信，去定位提示
+Author: zlw555
+Name: 广西,湖北农信去越狱
+
+Package: zlw555.xhome
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/xhome_1.1_iphoneos-arm.deb
+Size: 3040
+MD5sum: 702ee5a4c6281e9633d13d9124b39354
+SHA1: 28968362932e07cf0d4d5cb8058134589c64db36
+SHA256: 123e3f512d3fddc5b0e53fcc2c74452160a92ac1cc3e4ab13d940c261420e809
+Section: 自用插件
+Description: iPhone7自用!
+Author: zlw555
+Name: xhome
+
+Package: zydf.tetherme8
+Version: 1.2.3~arm64e-1
+Architecture: iphoneos-arm
+Installed-Size: 2223
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/rootful/zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 80840
+MD5sum: cf08f58e3ef5815d2d4272ef56be3720
+SHA1: 4c3229e15e88ea1513e475f339a2ddd6a900cd2b
+SHA256: 7478d0eb42751c8730d9421e607272c0f65748a28934aad90489382769bad099
+Section: 自用插件
+Description: tetherme网络共享，可共享vpn,最高支持13系统
+Author: Sam Bingner <support@tetherme.net>
+Icon: Tweaks.png
+Name: TetherMe for iOS 8+ Rus
+

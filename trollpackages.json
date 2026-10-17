@@ -1,0 +1,149 @@
+{
+  "repository_name": "自由的风仓库",
+  "repository_icon": "https://raw.githubusercontent.com/zlw555/thoes/master/repo-icon.png",
+  "packages": [
+    {
+      "name": "喜马拉雅",
+      "version": "2.7.6",
+      "description": "最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利。",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyad.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/refs/heads/master/downloads/ximalaya.deb",
+      "section": "Tweaks",
+      "size": "4kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "喜马拉雅极速版去后台启动",
+      "version": "1.1",
+      "description": "终于去掉后台启动广告了。3.0.34配合圈x vip。",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyajsb.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/tingliteqad.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "酷我音乐去后台启动",
+      "version": "1.0",
+      "description": "酷我音乐去后台启动",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/kwtg.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/kwyx_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "懒人听书后台启动",
+      "version": "1.0",
+      "description": "懒人听书后台启动",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/lrts.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/lrds_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "微信系统伪装18.5",
+      "version": "1.1",
+      "description": "微信伪装系统版本号为18.5，配合8.0.55以上微信开callkit",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/wxcallkit_1.1_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "香色闺阁",
+      "version": "2.55.2",
+      "description": "香色闺阁",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/StandarReader.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/StandarReader.ipa",
+      "section": "应用",
+      "size": "2.2MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "HBB推送带图",
+      "version": "8.1",
+      "description": "HBB无后台推送+推送带图,配合HBB专用巨魔注入器使用",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/libMMHBBackPush_8.1.zip",
+      "section": "Tweaks",
+      "size": "3.91MB",
+      "author": "HBB",
+      "screenshots": []
+    },
+    {
+      "name": "TrollFools_HBB订制版H",
+      "version": "8.1",
+      "description": "TrollFools_3.7-42-HBB.tipa",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/TrollFools_3.7-42-HBB.tipa",
+      "section": "应用",
+      "size": "2kB",
+      "author": "HBB",
+      "screenshots": []
+    },
+    {
+      "name": "微信iPad",
+      "version": "8.1",
+      "description": "微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/wxipad_1.1.4_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
+      "name": "威锋VIP",
+      "version": "7.0。3",
+      "description": "去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/feng.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/feng.deb",
+      "section": "Tweaks",
+      "size": "868kB",
+      "author": "小果子",
+      "screenshots": []
+    },
+    {
+      "name": "起点读书",
+      "version": "1.5",
+      "description": "2014年2月5日，支持最新5.9.333",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/qidian.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/qidianqad_1.5_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
+      "name": "闲鱼",
+      "version": "1.0",
+      "description": "闲鱼去启动广告，秒进",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/xianyu.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/xianyu_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
+        "name": "Quantumult",
+        "version": "1.5.2",
+        "description": "Quantumult",
+        "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/Quantumult.png",
+        "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/QuantumultX-1.5.2.tipa",
+        "section": "应用",
+        "size": "16MB",
+        "author": "",
+        "screenshots": []
+      }
+  ]
+} 

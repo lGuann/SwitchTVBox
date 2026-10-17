@@ -1,0 +1,8 @@
+Origin: 自由的风软件源
+Label: 自由的风
+Suite: stable
+Version: 1.7
+Codename: 自由的风
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 自由的风软件源
