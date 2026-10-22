@@ -22,7 +22,7 @@
 
 ## 安装
 
-1. 从 [Releases](https://github.com/zender555/SwitchTVBox/releases/latest) 下载 NRO。
+1. 从 [Releases](https://github.com/lGuann/SwitchTVBox/releases) 下载 NRO。
 2. 将 NRO 放入 SD 卡 `switch/SwitchTVBox/` 目录，并命名为 `SwitchTVBox.nro`。
 3. 通过支持完整内存模式的 Homebrew 启动方式打开 SwitchTVBox。
 4. 使用网盘功能时扫码登录；「免网盘」入口无需网盘登录。
@@ -51,6 +51,6 @@ Release 仅提供 NRO 文件，不包含账号文件、模板或默认配置。�
 
 请仅访问、保存和播放你拥有权利或已获得合法授权的内容，并遵守适用法律及第三方服务条款。第三方内容与服务可能变更、中断或失效，本软件不保证其持续可用性。
 
-如权利人认为本项目涉及侵权，请通过 [GitHub Issues](https://github.com/zender555/SwitchTVBox/issues/new) 提交具体内容或链接、权利证明及联系渠道；请勿在公开 Issue 中上传身份证件、密码或其他敏感信息。收到有效通知后，我们将及时采取移除相关内容、断开相关入口、停止分发或下架受影响版本等适当措施。
+如权利人认为本项目涉及侵权，请通过 [GitHub Issues]https://github.com/lGuann/SwitchTVBox/issues/new 提交具体内容或链接、权利证明及联系渠道；请勿在公开 Issue 中上传身份证件、密码或其他敏感信息。收到有效通知后，我们将及时采取移除相关内容、断开相关入口、停止分发或下架受影响版本等适当措施。
 
 本声明不排除法律规定不得免除或限制的责任。
