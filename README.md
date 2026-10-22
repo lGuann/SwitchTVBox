@@ -2,7 +2,7 @@
   <img src="icon.jpg" alt="SwitchTVBox 图标" width="128" />
   <h1>SwitchTVBox</h1>
   <p>在 Nintendo Switch 上浏览片库，支持网盘与免网盘播放。</p>
-  <p><a href="https://github.com/zender555/SwitchTVBox/releases/latest"><strong>下载最新安装包</strong></a> · <a href="#安装">安装方法</a></p>
+  <p><a href="https://github.com/lGuann/SwitchTVBox/releases"><strong>下载最新安装包</strong></a> · <a href="#安装">安装方法</a></p>
 </div>
 
 ## 交流反馈
